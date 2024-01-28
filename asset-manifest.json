@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.996ef2c9.css",
+    "main.js": "/myPortfolio/static/js/main.d014c753.js",
+    "static/js/787.7da95b79.chunk.js": "/myPortfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/social_net.jpg": "/myPortfolio/static/media/social_net.7a90fe3c3e26e4bd417f.jpg",
+    "static/media/education.gif": "/myPortfolio/static/media/education.83fd4f71a2a45b824a30.gif",
+    "static/media/e-commerce.jpg": "/myPortfolio/static/media/e-commerce.b8883664e9d6c7b5bbee.jpg",
+    "static/media/Me2.png": "/myPortfolio/static/media/Me2.e4ab049bbc7d13d827a0.png",
+    "static/media/experience2.gif": "/myPortfolio/static/media/experience2.a146bdb54395d8832c1e.gif",
+    "static/media/restaurant-website.jpg": "/myPortfolio/static/media/restaurant-website.68742ab5211877c0ac66.jpg",
+    "static/media/quad_1.png": "/myPortfolio/static/media/quad_1.36e1650610d7aac17bfa.png",
+    "static/media/chatIcon.jpg": "/myPortfolio/static/media/chatIcon.30729051983c26f7cf7f.jpg",
+    "static/media/chat3.gif": "/myPortfolio/static/media/chat3.5b7dee1163c25a155707.gif",
+    "static/media/hobbie.gif": "/myPortfolio/static/media/hobbie.22ae1727e66f837adfcb.gif",
+    "static/media/contactMe.gif": "/myPortfolio/static/media/contactMe.f070fb3cff6568118d92.gif",
+    "static/media/rocket.gif": "/myPortfolio/static/media/rocket.788efbfa2de8275d9678.gif",
+    "static/media/BackEnd.png": "/myPortfolio/static/media/BackEnd.5eba5598bb7c0db47b49.png",
+    "static/media/me.jpeg": "/myPortfolio/static/media/me.8dab81a71da483262b42.jpeg",
+    "static/media/mbLogo.png": "/myPortfolio/static/media/mbLogo.c18c3281f01b989fbbbf.png",
+    "static/media/DevOps.png": "/myPortfolio/static/media/DevOps.1e427a803480edbbda58.png",
+    "static/media/FrontEnd.png": "/myPortfolio/static/media/FrontEnd.ae5a7dae99da011341e3.png",
+    "static/media/DB.png": "/myPortfolio/static/media/DB.fe2270e8dc842337c9fd.png",
+    "static/media/loading.gif": "/myPortfolio/static/media/loading.faeaf2af2417700a5de7.gif",
+    "static/media/graduated.png": "/myPortfolio/static/media/graduated.ba2695e61234b8c0db77.png",
+    "static/media/linear_Regression.jpg": "/myPortfolio/static/media/linear_Regression.758ee7de8cc8fa33e2dc.jpg",
+    "static/media/cap.png": "/myPortfolio/static/media/cap.8b43bbcecf6736bfd514.png",
+    "static/media/main_logo.png": "/myPortfolio/static/media/main_logo.ea7e2fdb652fdab57e25.png",
+    "static/media/ChatBot.png": "/myPortfolio/static/media/ChatBot.2b4c9748f22302f271eb.png",
+    "static/media/logo.svg": "/myPortfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/myPortfolio/index.html",
+    "main.996ef2c9.css.map": "/myPortfolio/static/css/main.996ef2c9.css.map",
+    "main.d014c753.js.map": "/myPortfolio/static/js/main.d014c753.js.map",
+    "787.7da95b79.chunk.js.map": "/myPortfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.996ef2c9.css",
+    "static/js/main.d014c753.js"
+  ]
+}
