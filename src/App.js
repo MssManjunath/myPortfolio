@@ -7,7 +7,6 @@ import SideBar from './containers/sidebar';
 import { useState } from 'react';
 import Background from "./containers/background";
 import Chat from './containers/chat';
-import Fade from 'react-reveal/Fade';
 import Footer from './containers/footer';
 
 function App() {
@@ -17,9 +16,7 @@ function App() {
       <Background/>
       </div>
       <Header/>
-      <Fade>
       <Home/>
-      </Fade>
       <Nav/>
       <Chat/>
     </div>
